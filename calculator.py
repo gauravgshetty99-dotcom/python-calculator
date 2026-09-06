@@ -11,3 +11,5 @@ elif operation=="/":
     print(n/m)
 else:
     print("invalid operation:")
+#KEEPS THE TERMINAL OPEN UNTIL YOU PRESS ENTER AGAIN
+input("\nPress enter to exit...")
